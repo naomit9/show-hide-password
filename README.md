@@ -15,7 +15,7 @@ This project is a simple project that shows and hide the password when clicking 
 * `script.js`
 
 ### Live Preview
-[Click Here to View Live Preview]()
+[Click Here to View Live Preview](https://naomit9.github.io/show-hide-password/)
 
 ### Getting Started
 1. Clone the repository to your local machine:
